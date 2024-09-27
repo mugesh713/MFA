@@ -1,3 +1,1 @@
-# Code repo for the tutorial on implementing Two Factor Authentication on an Express.JS based Server
-
-### Link to the youtube video: https://youtu.be/fBWwx45_nIo
+I used express and qr code do this I am trying to do the authenication which now a days it is booming the world
